@@ -229,9 +229,15 @@ main section {
 
 }
 
+.fotter-column{
+    width: 50%;
+
+}
+
 footer
 {
     display: flex;
+    gap: 100px;
     background: #FFF8F3;
     margin-top: 100px;
 
@@ -239,6 +245,24 @@ footer
     
 
 
+}
+
+.contact input,textarea
+{
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    
+
+
+}
+
+.social-links{
+    margin-right: 30px;
 }
 /* .skill-description
 {
