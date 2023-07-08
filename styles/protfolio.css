@@ -279,6 +279,7 @@ footer
 .moshiur:hover
 {
     background-color:black;
+    cursor: pointer;
     /* text-decoration-color: #181818;
      */
 
