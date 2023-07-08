@@ -248,7 +248,7 @@ footer
 
 }
 
-.contact input,textarea
+.contact input[type="text"],.contact input[type="email"] ,textarea
 {
     display: block;
     margin-bottom: 24px;
